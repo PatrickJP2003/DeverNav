@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../AppITSQMET/mediapp"
+		},
+		{
+			"path": "F:/Pronosticos-Deportivos"
+		},
+		{
+			"path": "F:/Practica-git/Practica-Eventos"
+		},
+		{
+			"path": "../../../React Native"
+		},
+		{
+			"path": "../../../Pronosticos-Deportivos"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../AppITSQMET/AplicacionMovil/Clacular"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Practica-Eventos"
+	}
+}
